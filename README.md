@@ -1,7 +1,7 @@
 # STAT 588 - Final Project
 
 ## Attention Mechanism and Text Processing Presentation
-This repository stores a revised version of my presentation slides prepared while studying STAT 588: Deep Learning at Portland State University in 2026.
+This repository stores a revised version of my presentation slides prepared while studying STAT 588: Deep Learning at Portland State University in Spring 2026.
 
 The slides focus on attention mechanisms and text processing, with the goal of presenting the main ideas in an educational and accessible way for students who may not have extensive background in deep learning or natural language processing.
 
