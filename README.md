@@ -25,6 +25,6 @@ OpenAI Codex was used to assist with code adaptation and slide formatting. All e
 ## Contact
 If you notice citation issues, formatting problems, or other mistakes, please feel free to contact me at trnguye2@pdx.edu.
 
-Acknowledgment
+## Acknowledgment
 
 I deeply appreciate the researchers, instructors, and authors whose work on attention mechanisms and deep learning made this learning project possible.
